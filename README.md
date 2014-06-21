@@ -13,7 +13,7 @@ Su creacion y configuración en ubuntu esta explicada en mi blog, en el post htt
 
 Crear una aplicación de ruby
 
-    rhc app create sinatra ruby-1.9 --from-code https://github.com/openshift/sinatra-example.git
+    rhc app create sinatra ruby-1.9 --from-code https://github.com/julianjjo/Sinatra_openshift.git
 
 Eso esta todo listo, ahora lo puede ver en:
 
