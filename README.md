@@ -7,7 +7,9 @@ Este repositorio de git le ayudará a ponerse en marcha rápidamente Sinatra en 
 Crear proyecto en OpenShift
 ----------------------------
 
-Crear una cuenta en https://www.openshift.com 
+Crear una cuenta en https://www.openshift.com
+
+Su creacion y configuración en ubuntu esta explicada en mi blog, en el post http://www.eldeveloperblog.tk/?p=13 
 
 Crear una aplicación de ruby
 
